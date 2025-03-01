@@ -1,4 +1,8 @@
-﻿namespace Final_Project_Gym
+﻿// Author: Andrew Cruz Pacheco
+// Course: COMP-003A
+// Faculty: Jonathan Cruz
+// Purpose: Final project demonstating what we've learned in this course.
+namespace Final_Project_Gym
 {
     internal class Program
     {
